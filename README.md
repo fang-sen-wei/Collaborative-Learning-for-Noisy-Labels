@@ -16,9 +16,9 @@ Python >= 3.8, Pytorch >= 2.0.0, Cuda >= 11.8.0, torchvision >= 0.4.1, mlconfig 
 How to run
 Here is an example：
 
-python3  main.py --exp_name      test_exp \
-                    --noise_rate    0.8                  \
-                    --version       nce+rce              \
-                    --config_path   configs/cifar10/sym \
-                    --seed          123 \
+python3  main.py --exp_name      test_exp \\
+                    --noise_rate    0.8                  \\
+                    --version       nce+rce              \\
+                    --config_path   configs/cifar10/sym \\
+                    --seed          123 \\
 	                  --data_type  cifar10
