@@ -17,8 +17,8 @@ How to run
 Here is an example：
 
 python3  main.py --exp_name      test_exp \\ \
-                    --noise_rate    0.8                  \\ \
+                    --noise_rate    0.4                  \\ \
                     --version       nce+rce              \\ \
-                    --config_path   configs/cifar10/sym \\ \
+                    --config_path   configs/cifar10/asym \\ \
                     --seed          123 \\ \
 	                  --data_type  cifar10
