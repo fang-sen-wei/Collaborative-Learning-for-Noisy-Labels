@@ -11,7 +11,7 @@ Python >= 3.8, Pytorch >= 2.0.0, Cuda >= 11.8.0, torchvision >= 0.4.1, mlconfig 
 --seed:  random seed.\
 --config_path:  the path of config.\
 --version:  the type of loss function.\
---data_type:  name of the dataset.\
+--data_type:  name of the dataset.
 
 How to run
 Here is an example：
