@@ -1,4 +1,4 @@
-# Code
+# Code FOR PAPER
 Collaborative Learning of Sample Selection and  Robust Functions for Noisy Labels
 
 # Requirements
