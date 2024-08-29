@@ -14,8 +14,7 @@ Python >= 3.8, Pytorch >= 2.0.0, Cuda >= 11.8.0, torchvision >= 0.4.1, mlconfig 
 --data_type:  name of the dataset.
 
 # How to run
-First, you need to unzip the configs.zip file, and place the extracted folder in the same directory as the code. \
-Second, please double-check the configs ".yaml" files and the run command before each run.
+please double-check the configs ".yaml" files and the run command before each run.
 
 Here is an example：
 
