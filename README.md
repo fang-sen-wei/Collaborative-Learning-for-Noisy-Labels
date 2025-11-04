@@ -1,5 +1,5 @@
 # Code For Paper
-Collaborative Learning of Sample Selection and  Robust Functions for Noisy Labels
+[Collaborative Learning of Sample Selection and  Robust Functions for Noisy Labels](https://link.springer.com/chapter/10.1007/978-981-96-6975-2_14)
 
 # Requirements
 Python >= 3.8, Pytorch >= 2.0.0, Cuda >= 11.8.0, torchvision >= 0.4.1, mlconfig >= 0.2.0
